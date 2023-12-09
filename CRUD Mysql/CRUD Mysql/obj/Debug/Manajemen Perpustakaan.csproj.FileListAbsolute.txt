@@ -1,0 +1,73 @@
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.config
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.application
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.pdb
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.AddKategoriBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormInvBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormPegawai.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.HomePage.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.InvBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.KategoriBuku.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Info.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Pegawai.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Register.resources
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.application
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.CopyComplete
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe
+C:\Users\LENOVO\Documents\VS Project\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.pdb
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.config
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.application
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.pdb
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.AddKategoriBuku.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormInvBuku.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormPegawai.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.HomePage.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.InvBuku.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.KategoriBuku.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Info.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Pegawai.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Properties.Resources.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Register.resources
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.GenerateResource.cache
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.application
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.CopyComplete
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.pdb
+C:\Users\user\Downloads\mamangapip\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.KategoriBarang.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.AddKategoriBuku.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormInvBuku.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.FormPegawai.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.HomePage.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.InvBuku.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.KategoriBarang.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Info.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Pegawai.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\CRUD_Mysql.Register.resources
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.pdb
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.application
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.exe
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\bin\Debug\Manajemen Perpustakaan.pdb
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.exe.manifest
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.application
+C:\Users\LENOVO\OneDrive\Desktop\c#\CRUD Mysql\CRUD Mysql\obj\Debug\Manajemen Perpustakaan.csproj.CopyComplete
